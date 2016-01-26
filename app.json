@@ -1,0 +1,11 @@
+{
+  "name": "Motel7",
+  "description": "Test app for motel 7",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ]
+}
